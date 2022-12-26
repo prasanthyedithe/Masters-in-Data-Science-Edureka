@@ -1,0 +1,506 @@
+Record,Gender,No_kids,Education,HasCar,Income,PropertyValue,Loan_Period,Credit_Record,Housing_type,Property_Purchased
+Record1,Female,0,Graduate,No,710,90400,456,1,Affordable,Y
+Record8,Male,0,Graduate,No,6516,168800,336,1,Affordable,Y
+Record9,Male,0,Graduate,Yes,7040,160000,336,1,Affordable,Y
+Record10,Male,0,Not Graduate,No,4730,155200,336,1,Affordable,Y
+Record11,Male,0,Graduate,No,9167,149600,336,1,Affordable,Y
+Record12,Male,0,Graduate,No,10459,149600,336,1,Affordable,Y
+Record13,Male,0,Graduate,No,2888,149600,336,1,Affordable,Y
+Record15,Male,0,Graduate,Yes,10960,144000,336,1,Affordable,Y
+Record16,Male,0,Graduate,No,8692,144000,336,1,Affordable,Y
+Record18,Male,0,Graduate,No,4044,137600,336,1,Affordable,Y
+Record25,Male,0,Graduate,No,3045,124000,336,1,Affordable,Y
+Record26,Male,0,Not Graduate,Not Answered,3184,124000,336,1,Affordable,Y
+Record27,Female,0,Not Graduate,No,4785,123200,336,1,Affordable,Y
+Record28,Male,0,Graduate,No,3317,122400,336,1,Affordable,Y
+Record29,Male,0,Graduate,Yes,2835,121600,336,1,Affordable,Y
+Record30,Male,0,Graduate,No,4505,120800,336,1,Affordable,Y
+Record33,Male,0,Graduate,No,2779,116000,336,1,Affordable,Y
+Record34,Male,0,Graduate,Yes,7505,112800,336,1,Affordable,Y
+Record35,Male,0,Graduate,No,4400,112000,336,1,Affordable,Y
+Record36,Male,0,Graduate,No,6600,112000,336,1,Affordable,Y
+Record37,Male,0,Graduate,No,3383,111200,336,1,Affordable,Y
+Record38,Female,0,Not Graduate,Yes,7857,110400,336,1,Affordable,Y
+Record39,Male,0,Graduate,No,6412,110400,336,1,Affordable,Y
+Record41,Female,0,Graduate,No,4139,108000,336,1,Affordable,Y
+Record42,Female,0,Graduate,No,5500,105600,336,1,Affordable,Y
+Record47,Male,0,Graduate,No,2683,103200,336,1,Affordable,Y
+Record48,Male,0,Graduate,No,3117,100800,336,1,Affordable,Y
+Record49,Male,0,Not Graduate,Not Answered,2805,100800,336,1,Affordable,Y
+Record50,Male,0,Graduate,No,6037,100000,336,1,Affordable,Y
+Record52,Male,0,Graduate,No,2933,96800,336,1,Affordable,Y
+Record53,Female,0,Graduate,No,7920,96000,336,1,Affordable,Y
+Record54,Male,0,Graduate,No,4611,96000,336,1,Affordable,Y
+Record55,Male,0,Graduate,No,4075,96000,336,1,Affordable,Y
+Record57,Male,0,Graduate,Not Answered,3278,96000,336,1,Affordable,Y
+Record58,Male,0,Graduate,No,3847,92800,336,1,Affordable,Y
+Record60,Male,0,Graduate,No,1128,89600,336,1,Affordable,Y
+Record62,Male,0,Not Graduate,No,2479,88000,336,1,Affordable,Y
+Record63,Male,0,Not Graduate,No,4061,88000,336,1,Affordable,Y
+Record64,Male,0,Graduate,No,3064,88000,336,1,Affordable,Y
+Record65,Male,0,Not Graduate,No,4217,88000,336,1,Affordable,Y
+Record67,Male,0,Not Graduate,No,4293,87200,336,1,Affordable,Y
+Record69,Male,0,Graduate,No,3556,86400,336,1,Affordable,Y
+Record70,Male,0,Not Graduate,No,2860,85600,336,1,Affordable,Y
+Record72,Male,0,Not Graduate,Yes,2842,83200,336,1,Affordable,Y
+Record76,Male,0,Not Graduate,Not Answered,2002,76000,336,1,Affordable,Y
+Record77,Male,0,Graduate,No,3474,71200,336,1,Affordable,Y
+Record78,Male,0,Graduate,No,3212,69600,336,1,Affordable,Y
+Record79,Female,0,Graduate,No,3190,56800,336,1,Affordable,Y
+Record80,Female,0,Not Graduate,No,2435,52800,336,1,Affordable,Y
+Record81,Female,0,Graduate,No,2758,44800,336,1,Affordable,Y
+Record82,Male,0,Not Graduate,No,4373,44000,336,1,Affordable,Y
+Record83,Male,0,Not Graduate,No,5374,38400,336,1,Affordable,Y
+Record85,Male,0,Graduate,No,10261,150400,156,1,Affordable,Y
+Record88,Male,0,Graduate,No,4245,113600,156,1,Affordable,Y
+Record89,Male,0,Graduate,Not Answered,4088,33600,156,1,Affordable,Y
+Record91,Male,0,Graduate,No,5409,104000,336,0,Affordable,Y
+Record92,Male,0,Graduate,No,2732,72000,156,0,Affordable,Y
+Record98,Male,0,Graduate,No,16042,348800,336,1,Mid Range,Y
+Record99,Male,0,Graduate,Not Answered,14164,324000,336,1,Mid Range,Y
+Record100,Male,0,Graduate,No,6536,236800,336,1,Mid Range,Y
+Record101,Female,0,Graduate,No,9167,224000,336,1,Mid Range,Y
+Record103,Male,0,Graduate,No,5042,204000,336,1,Mid Range,Y
+Record107,Male,0,Graduate,No,11917,187200,336,1,Mid Range,Y
+Record108,Male,0,Graduate,No,9992,182400,336,1,Mid Range,Y
+Record109,Female,0,Not Graduate,Yes,18990,180000,336,1,Mid Range,Y
+Record112,Male,0,Graduate,No,4393,165600,336,1,Mid Range,Y
+Record117,Male,0,Graduate,Yes,10516,152800,336,1,Mid Range,Y
+Record119,Male,0,Graduate,No,6279,149600,336,1,Mid Range,Y
+Record120,Male,0,Graduate,No,4026,149600,336,1,Mid Range,Y
+Record121,Male,0,Graduate,Yes,6400,147200,336,1,Mid Range,Y
+Record122,Female,0,Graduate,No,4598,145600,336,1,Mid Range,Y
+Record123,Male,0,Graduate,No,6265,140000,336,1,Mid Range,Y
+Record126,Male,0,Graduate,No,2622,137600,336,1,Mid Range,Y
+Record128,Male,0,Graduate,No,4276,129600,336,1,Mid Range,Y
+Record130,Male,0,Graduate,No,2749,128000,336,1,Mid Range,Y
+Record132,Female,0,Graduate,No,3484,123200,336,1,Mid Range,Y
+Record134,Male,0,Graduate,No,5328,120800,336,1,Mid Range,Y
+Record136,Male,0,Graduate,No,2882,120000,336,1,Mid Range,Y
+Record139,Female,0,Graduate,No,4034,115200,336,1,Mid Range,Y
+Record140,Female,0,Graduate,No,4400,115200,336,1,Mid Range,Y
+Record141,Male,0,Graduate,No,3269,115200,336,1,Mid Range,Y
+Record142,Male,0,Graduate,No,2668,114400,336,1,Mid Range,Y
+Record144,Female,0,Graduate,Not Answered,3222,111200,336,1,Mid Range,Y
+Record145,Male,0,Graduate,No,3571,110400,336,1,Mid Range,Y
+Record146,Female,0,Graduate,No,2733,109600,336,1,Mid Range,Y
+Record147,Male,0,Graduate,No,2603,108800,336,1,Mid Range,Y
+Record148,Male,0,Graduate,No,4336,107200,336,1,Mid Range,Y
+Record149,Male,0,Graduate,No,2266,107200,336,1,Mid Range,Y
+Record151,Male,0,Not Graduate,Yes,6380,105600,336,1,Mid Range,Y
+Record152,Male,0,Not Graduate,No,2581,105600,336,1,Mid Range,Y
+Record154,Male,0,Graduate,No,3254,104800,336,1,Mid Range,Y
+Record155,Male,0,Graduate,No,1935,104800,336,1,Mid Range,Y
+Record156,Male,0,Graduate,No,4100,104800,336,1,Mid Range,Y
+Record157,Female,0,Graduate,No,2666,104000,336,1,Mid Range,Y
+Record158,Male,0,Not Graduate,No,7462,104000,336,1,Mid Range,Y
+Record159,Male,0,Graduate,Yes,5683,102400,336,1,Mid Range,Y
+Record160,Male,0,Graduate,No,6875,102400,336,1,Mid Range,Y
+Record161,Male,0,Graduate,No,2292,102400,336,1,Mid Range,Y
+Record162,Male,0,Graduate,Not Answered,3667,102400,336,1,Mid Range,Y
+Record163,Male,0,Graduate,No,5346,100000,336,1,Mid Range,Y
+Record166,Male,0,Not Graduate,No,3747,98400,336,1,Mid Range,Y
+Record167,Male,0,Graduate,No,3079,97600,336,1,Mid Range,Y
+Record168,Male,0,Graduate,No,4547,97600,336,1,Mid Range,Y
+Record169,Male,0,Graduate,No,2968,97600,336,1,Mid Range,Y
+Record170,Male,0,Graduate,Yes,43062,96000,336,1,Mid Range,Y
+Record171,Female,0,Graduate,No,3395,96000,336,1,Mid Range,Y
+Record172,Female,0,Not Graduate,No,4849,96000,336,1,Mid Range,Y
+Record175,Male,0,Graduate,Not Answered,5555,94400,336,1,Mid Range,Y
+Record178,Female,0,Graduate,No,4537,92000,336,1,Mid Range,Y
+Record179,Female,0,Graduate,No,5002,92000,336,1,Mid Range,Y
+Record180,Male,0,Graduate,No,2640,92000,336,1,Mid Range,Y
+Record182,Male,0,Graduate,No,3850,91200,336,1,Mid Range,Y
+Record183,Male,0,Graduate,No,4320,89600,336,1,Mid Range,Y
+Record184,Female,0,Graduate,No,4231,88800,336,1,Mid Range,Y
+Record185,Male,0,Not Graduate,No,3220,88800,336,1,Mid Range,Y
+Record186,Male,0,Not Graduate,No,4123,88000,336,1,Mid Range,Y
+Record187,Male,0,Graduate,No,4153,88000,336,1,Mid Range,Y
+Record188,Female,0,Graduate,No,3988,86400,336,1,Mid Range,Y
+Record191,Male,0,Graduate,No,2750,83200,336,1,Mid Range,Y
+Record193,Male,0,Graduate,No,2750,82400,336,1,Mid Range,Y
+Record194,Male,0,Graduate,No,5385,81600,336,1,Mid Range,Y
+Record195,Female,0,Not Graduate,No,2121,80000,336,1,Mid Range,Y
+Record196,Female,0,Graduate,No,2563,80000,336,1,Mid Range,Y
+Record197,Female,0,Graduate,No,3475,80000,336,1,Mid Range,Y
+Record200,Male,0,Not Graduate,No,2050,78400,336,1,Mid Range,Y
+Record201,Male,0,Graduate,No,3229,78400,336,1,Mid Range,Y
+Record205,Male,0,Graduate,No,2346,76800,336,1,Mid Range,Y
+Record206,Male,0,Graduate,No,16368,76800,336,1,Mid Range,Y
+Record215,Male,0,Graduate,Yes,7794,67200,336,1,Mid Range,Y
+Record216,Female,0,Graduate,No,3209,67200,336,1,Mid Range,Y
+Record218,Male,0,Graduate,No,4244,60800,336,1,Mid Range,Y
+Record220,Female,0,Graduate,No,4576,56800,336,1,Mid Range,Y
+Record221,Female,0,Not Graduate,No,2382,56000,336,1,Mid Range,Y
+Record222,Male,0,Graduate,No,2990,56000,336,1,Mid Range,Y
+Record223,Female,0,Graduate,Yes,17335,44000,336,1,Mid Range,Y
+Record224,Male,0,Graduate,No,2750,44000,336,1,Mid Range,Y
+Record225,Female,0,Not Graduate,No,2160,42400,336,1,Mid Range,Y
+Record226,Male,0,Graduate,No,2175,40000,336,1,Mid Range,Y
+Record227,Male,0,Graduate,No,2119,40000,336,1,Mid Range,Y
+Record229,Female,0,Graduate,No,4583,35200,336,1,Mid Range,Y
+Record230,Female,0,Graduate,No,3483,28800,336,1,Mid Range,Y
+Record233,Male,0,Not Graduate,No,4196,99200,276,1,Mid Range,Y
+Record234,Male,0,Graduate,No,3850,64800,276,1,Mid Range,Y
+Record237,Male,0,Graduate,Yes,7645,140000,156,1,Mid Range,Y
+Record239,Male,0,Not Graduate,No,4607,92000,156,1,Mid Range,Y
+Record241,Male,0,Graduate,No,5060,58400,156,1,Mid Range,Y
+Record242,Male,0,Graduate,No,3300,44800,156,1,Mid Range,Y
+Record243,Male,0,Graduate,Yes,3805,20000,96,1,Mid Range,Y
+Record244,Male,0,Not Graduate,No,3982,20000,96,1,Mid Range,Y
+Record248,Female,0,Graduate,No,2351,109600,336,0,Mid Range,Y
+Record250,Male,0,Graduate,No,6747,259200,336,1,Premium,Y
+Record255,Male,0,Graduate,Yes,17732,208000,336,1,Premium,Y
+Record256,Female,0,Graduate,No,11449,207200,336,1,Premium,Y
+Record260,Male,0,Graduate,No,9423,168000,336,1,Premium,Y
+Record263,Male,0,Graduate,Yes,2727,150400,336,1,Premium,Y
+Record267,Male,0,Graduate,No,4583,147200,336,1,Premium,Y
+Record269,Male,0,Graduate,No,3529,137600,336,1,Premium,Y
+Record270,Male,0,Graduate,No,5959,134400,336,1,Premium,Y
+Record272,Male,0,Graduate,Not Answered,3501,128800,336,1,Premium,Y
+Record275,Female,0,Graduate,No,6600,124800,336,1,Premium,Y
+Record277,Male,0,Graduate,No,6404,115200,336,1,Premium,Y
+Record279,Male,0,Graduate,No,6600,112800,336,1,Premium,Y
+Record280,Male,0,Graduate,No,3491,109600,336,1,Premium,Y
+Record281,Male,0,Graduate,No,5848,108800,336,1,Premium,Y
+Record282,Male,0,Graduate,No,12261,108800,336,1,Premium,Y
+Record283,Male,0,Graduate,No,2567,108800,336,1,Premium,Y
+Record287,Male,0,Graduate,No,5225,104000,336,1,Premium,Y
+Record289,Male,0,Graduate,Yes,7884,102400,336,1,Premium,Y
+Record293,Female,0,Not Graduate,Yes,19982,100000,336,1,Premium,Y
+Record294,Male,0,Graduate,No,5445,100000,336,1,Premium,Y
+Record295,Male,0,Not Graduate,No,2842,96000,336,1,Premium,Y
+Record296,Male,0,Graduate,No,2750,96000,336,1,Premium,Y
+Record297,Male,0,Graduate,No,4732,94400,336,1,Premium,Y
+Record299,Male,0,Not Graduate,No,2384,92000,336,1,Premium,Y
+Record302,Male,0,Graduate,No,3552,88000,336,1,Premium,Y
+Record304,Female,0,Graduate,Not Answered,3041,88000,336,1,Premium,Y
+Record307,Male,0,Graduate,No,2527,83200,336,1,Premium,Y
+Record308,Male,0,Graduate,No,2002,80000,336,1,Premium,Y
+Record309,Male,0,Graduate,No,4125,80000,336,1,Premium,Y
+Record314,Male,0,Not Graduate,No,2567,76000,336,1,Premium,Y
+Record315,Male,0,Graduate,No,3337,76000,336,1,Premium,Y
+Record316,Male,0,Graduate,No,1990,72000,336,1,Premium,Y
+Record320,Female,0,Graduate,No,3569,64000,336,1,Premium,Y
+Record321,Male,0,Graduate,No,3414,64000,336,1,Premium,Y
+Record322,Male,0,Graduate,No,2216,59200,336,1,Premium,Y
+Record323,Male,0,Graduate,No,3667,56000,336,1,Premium,Y
+Record326,Female,0,Graduate,No,2750,53600,336,1,Premium,Y
+Record327,Male,0,Graduate,Yes,3300,52800,336,1,Premium,Y
+Record328,Female,0,Graduate,No,3295,48000,336,1,Premium,Y
+Record329,Male,0,Graduate,No,2727,47200,336,1,Premium,N
+Record330,Female,0,Graduate,No,1993,43200,336,1,Premium,N
+Record331,Male,0,Graduate,No,3580,40000,336,1,Premium,N
+Record332,Male,0,Graduate,No,1980,37600,336,1,Premium,N
+Record335,Female,0,Graduate,No,3561,24000,336,1,Premium,N
+Record338,Male,0,Graduate,Not Answered,69671,392000,156,1,Premium,N
+Record343,Male,0,Graduate,No,5299,96000,156,1,Premium,N
+Record347,Male,0,Graduate,No,10256,60000,156,1,Premium,N
+Record348,Male,0,Not Graduate,No,2989,48000,156,1,Premium,N
+Record351,Male,0,Graduate,No,3262,124000,36,1,Premium,N
+Record354,Female,0,Graduate,No,5500,120800,456,1,Affordable,N
+Record355,Male,0,Graduate,No,21703,456000,336,1,Affordable,N
+Record356,Male,0,Graduate,No,22257,384000,336,1,Affordable,N
+Record358,Male,0,Graduate,No,6397,248800,336,1,Affordable,N
+Record359,Male,0,Graduate,No,9625,246400,336,1,Affordable,N
+Record360,Male,0,Graduate,No,16152,243200,336,1,Affordable,N
+Record361,Female,0,Graduate,No,11000,180000,336,1,Affordable,N
+Record362,Female,0,Graduate,Yes,8186,155200,336,1,Affordable,N
+Record365,Male,0,Graduate,No,6125,140000,336,1,Affordable,N
+Record367,Male,0,Graduate,No,3575,136000,336,1,Affordable,N
+Record369,Male,0,Graduate,No,3703,108000,336,1,Affordable,N
+Record370,Male,0,Graduate,No,165,108000,336,1,Affordable,N
+Record371,Female,0,Graduate,Not Answered,3760,108000,336,1,Affordable,N
+Record372,Male,0,Not Graduate,No,5376,106400,336,1,Affordable,N
+Record373,Male,0,Not Graduate,No,6838,106400,336,1,Affordable,N
+Record376,Male,0,Not Graduate,Not Answered,8067,96000,336,1,Affordable,N
+Record377,Male,0,Graduate,No,2039,91200,336,1,Affordable,N
+Record379,Female,0,Graduate,No,5042,89600,336,1,Affordable,N
+Record381,Male,0,Not Graduate,No,3958,80000,336,1,Affordable,N
+Record382,Female,0,Not Graduate,No,3740,76000,336,1,Affordable,N
+Record383,Female,0,Graduate,No,5042,67200,336,1,Affordable,N
+Record385,Male,0,Not Graduate,No,3209,52800,336,1,Affordable,N
+Record386,Male,0,Graduate,Not Answered,3893,44000,336,1,Affordable,N
+Record387,Female,0,Graduate,No,2616,36800,336,1,Affordable,N
+Record388,Male,0,Not Graduate,No,3031,52000,276,1,Affordable,N
+Record393,Male,0,Not Graduate,No,6706,174400,336,0,Affordable,N
+Record394,Male,0,Graduate,No,6912,167200,336,0,Affordable,N
+Record396,Male,0,Graduate,No,4343,119200,336,0,Affordable,N
+Record400,Male,0,Graduate,No,3957,95200,336,0,Affordable,N
+Record401,Male,0,Graduate,No,6905,94400,336,0,Affordable,N
+Record402,Male,0,Not Graduate,No,6650,92000,336,0,Affordable,N
+Record404,Female,0,Graduate,Yes,6050,84000,336,0,Affordable,N
+Record405,Male,0,Graduate,No,7150,84000,336,0,Affordable,N
+Record408,Male,0,Not Graduate,Yes,2870,132000,156,0,Affordable,N
+Record409,Male,0,Graduate,No,3953,105600,156,0,Affordable,N
+Record412,Male,0,Graduate,No,2750,76800,456,1,Mid Range,N
+Record416,Male,0,Graduate,No,6299,206400,336,1,Mid Range,N
+Record417,Female,0,Graduate,No,11000,171200,336,1,Mid Range,N
+Record418,Male,0,Graduate,No,5152,148000,336,1,Mid Range,N
+Record420,Male,0,Graduate,No,13200,131200,336,1,Mid Range,N
+Record421,Male,0,Graduate,No,9168,128000,336,1,Mid Range,N
+Record423,Male,0,Graduate,No,3760,101600,336,1,Mid Range,N
+Record424,Female,0,Graduate,No,4653,89600,336,1,Mid Range,N
+Record425,Male,0,Not Graduate,Yes,4779,69600,336,1,Mid Range,N
+Record428,Female,0,Graduate,Yes,2860,79200,276,1,Mid Range,N
+Record430,Male,0,Graduate,No,2343,56000,156,1,Mid Range,N
+Record432,Male,0,Not Graduate,No,3694,64000,12,1,Mid Range,N
+Record433,Male,0,Graduate,No,2461,50400,456,0,Mid Range,N
+Record435,Male,0,Graduate,No,16499,193600,336,0,Mid Range,N
+Record436,Male,0,Not Graduate,No,1835,160800,336,0,Mid Range,N
+Record437,Female,0,Not Graduate,No,2364,142400,336,0,Mid Range,N
+Record439,Female,0,Graduate,No,4730,108800,336,0,Mid Range,N
+Record440,Female,0,Graduate,Yes,5042,106400,336,0,Mid Range,N
+Record444,Female,0,Graduate,No,4583,92800,336,0,Mid Range,N
+Record445,Male,0,Not Graduate,No,2860,92800,336,0,Mid Range,N
+Record447,Female,0,Graduate,No,1650,82400,336,0,Mid Range,N
+Record448,Female,0,Graduate,No,5500,82400,336,0,Mid Range,N
+Record449,Female,0,Graduate,No,2352,79200,336,0,Mid Range,N
+Record450,Male,0,Graduate,No,4583,78400,336,0,Mid Range,N
+Record454,Male,0,Graduate,No,4125,90400,456,1,Premium,N
+Record455,Male,0,Graduate,No,3376,56800,456,1,Premium,N
+Record457,Male,0,Graduate,No,8727,220000,336,1,Premium,N
+Record458,Male,0,Graduate,No,10083,195200,336,1,Premium,N
+Record460,Male,0,Graduate,No,4125,140800,336,1,Premium,N
+Record461,Male,0,Graduate,No,4079,138400,336,1,Premium,N
+Record463,Male,0,Not Graduate,No,6637,128000,336,1,Premium,N
+Record469,Female,0,Graduate,No,4767,88000,336,1,Premium,N
+Record470,Male,0,Graduate,No,4767,88000,336,1,Premium,N
+Record473,Male,0,Graduate,No,2020,72000,336,1,Premium,N
+Record474,Male,0,Graduate,Yes,12100,66400,336,1,Premium,N
+Record475,Male,0,Graduate,No,3960,64000,336,1,Premium,N
+Record476,Male,0,Graduate,No,2679,60000,336,1,Premium,N
+Record477,Male,0,Graduate,No,3484,59200,336,1,Premium,N
+Record479,Male,0,Not Graduate,No,1587,28000,336,1,Premium,N
+Record480,Female,0,Graduate,No,2616,7200,336,1,Premium,N
+Record482,Male,0,Graduate,Yes,6655,96000,156,1,Premium,N
+Record483,Male,0,Not Graduate,No,2567,81600,456,0,Premium,N
+Record484,Male,0,Not Graduate,No,3300,80000,456,0,Premium,N
+Record488,Male,0,Graduate,Yes,17875,153600,336,0,Premium,N
+Record489,Male,0,Graduate,Yes,11458,149600,336,0,Premium,N
+Record490,Male,0,Not Graduate,No,2700,144800,336,0,Premium,N
+Record493,Female,0,Graduate,No,2910,96000,336,0,Premium,N
+Record494,Female,0,Graduate,No,2640,83200,336,0,Premium,N
+Record495,Male,0,Not Graduate,No,8426,83200,336,0,Premium,N
+Record496,Male,0,Graduate,No,3483,83200,336,0,Premium,N
+Record497,Male,0,Not Graduate,No,1980,74400,336,0,Premium,N
+Record498,Female,0,Graduate,No,3861,60800,336,0,Premium,N
+Record499,Female,0,Graduate,No,3498,56800,336,0,Premium,N
+Record500,Male,0,Graduate,No,2444,48000,336,0,Premium,N
+Record502,Male,0,Not Graduate,No,3520,100800,156,0,Premium,N
+Record19,Male,1,Graduate,No,6050,136000,336,1,Affordable,Y
+Record22,Male,1,Graduate,Not Answered,5775,128000,336,1,Affordable,Y
+Record43,Male,1,Not Graduate,No,2154,104800,336,1,Affordable,Y
+Record44,Male,1,Graduate,Yes,3813,104000,336,1,Affordable,Y
+Record61,Female,1,Graduate,No,4194,89600,336,1,Affordable,Y
+Record71,Male,1,Graduate,No,1961,85600,336,1,Affordable,Y
+Record86,Male,1,Graduate,No,16042,148000,156,1,Affordable,Y
+Record93,Male,1,Graduate,No,3171,98400,456,1,Mid Range,Y
+Record96,Female,1,Graduate,Yes,21433,480000,336,1,Mid Range,Y
+Record97,Female,1,Graduate,No,13200,396800,336,1,Mid Range,Y
+Record104,Male,1,Graduate,No,6672,200000,336,1,Mid Range,Y
+Record114,Male,1,Graduate,No,7563,160000,336,1,Mid Range,Y
+Record124,Male,1,Graduate,No,6958,140000,336,1,Mid Range,Y
+Record125,Male,1,Graduate,No,3740,138400,336,1,Mid Range,Y
+Record127,Male,1,Graduate,Yes,3795,129600,336,1,Mid Range,Y
+Record133,Male,1,Graduate,No,41491,121600,336,1,Mid Range,Y
+Record135,Female,1,Graduate,Yes,9487,120000,336,1,Mid Range,Y
+Record143,Male,1,Graduate,No,3471,112000,336,1,Mid Range,Y
+Record153,Female,1,Not Graduate,Not Answered,5711,105600,336,1,Mid Range,Y
+Record176,Male,1,Graduate,No,4125,92800,336,1,Mid Range,Y
+Record181,Male,1,Graduate,No,3025,92000,336,1,Mid Range,Y
+Record192,Male,1,Graduate,No,2741,83200,336,1,Mid Range,Y
+Record207,Male,1,Graduate,No,3647,76800,336,1,Mid Range,Y
+Record209,Male,1,Graduate,Yes,3185,76000,336,1,Mid Range,Y
+Record210,Female,1,Graduate,Not Answered,4018,76000,336,1,Mid Range,Y
+Record211,Male,1,Not Graduate,No,2947,75200,336,1,Mid Range,Y
+Record212,Male,1,Not Graduate,No,2860,72000,336,1,Mid Range,Y
+Record214,Male,1,Graduate,Yes,18334,68800,336,1,Mid Range,Y
+Record231,Male,1,Graduate,No,6015,20800,336,1,Mid Range,Y
+Record235,Male,1,Not Graduate,No,2928,223200,156,1,Mid Range,Y
+Record238,Female,1,Graduate,No,5069,112000,156,1,Mid Range,Y
+Record245,Female,1,Graduate,No,3659,84000,60,1,Mid Range,Y
+Record247,Male,1,Not Graduate,No,5814,128800,336,0,Mid Range,Y
+Record251,Male,1,Graduate,No,6551,252000,336,1,Premium,Y
+Record252,Male,1,Graduate,No,11825,249600,336,1,Premium,Y
+Record257,Male,1,Graduate,No,8880,202400,336,1,Premium,Y
+Record258,Male,1,Graduate,Yes,8566,192000,336,1,Premium,Y
+Record264,Male,1,Graduate,No,10492,149600,336,1,Premium,Y
+Record266,Male,1,Graduate,No,3759,148800,336,1,Premium,Y
+Record268,Male,1,Graduate,No,8888,144000,336,1,Premium,Y
+Record273,Male,1,Not Graduate,No,5010,126400,336,1,Premium,Y
+Record274,Male,1,Graduate,No,3667,126400,336,1,Premium,Y
+Record284,Female,1,Graduate,No,5133,108000,336,1,Premium,Y
+Record285,Male,1,Not Graduate,No,3850,108000,336,1,Premium,Y
+Record290,Male,1,Not Graduate,No,2463,102400,336,1,Premium,Y
+Record298,Male,1,Graduate,No,4823,93600,336,1,Premium,Y
+Record310,Male,1,Graduate,No,3358,80000,336,1,Premium,Y
+Record313,Male,1,Graduate,No,1788,76800,336,1,Premium,Y
+Record317,Female,1,Graduate,No,3164,72000,336,1,Premium,Y
+Record333,Male,1,Graduate,No,6214,35200,336,1,Premium,N
+Record334,Female,1,Graduate,No,14589,32000,336,1,Premium,N
+Record336,Male,1,Graduate,No,1692,24000,336,1,Premium,N
+Record337,Male,1,Graduate,No,4387,40000,216,1,Premium,N
+Record340,Male,1,Not Graduate,No,7269,109600,156,1,Premium,N
+Record344,Male,1,Graduate,Not Answered,4034,90400,156,1,Premium,N
+Record345,Male,1,Not Graduate,No,3739,88800,156,1,Premium,N
+Record368,Male,1,Graduate,Yes,11000,124000,336,1,Affordable,N
+Record375,Male,1,Graduate,No,5042,102400,336,1,Affordable,N
+Record380,Male,1,Graduate,Yes,5162,84800,336,1,Affordable,N
+Record384,Female,1,Not Graduate,No,5067,64800,336,1,Affordable,N
+Record390,Male,1,Graduate,No,4712,137600,60,1,Affordable,N
+Record391,Male,1,Graduate,Yes,9533,300800,336,0,Affordable,N
+Record397,Male,1,Graduate,No,3066,116800,336,0,Affordable,N
+Record407,Male,1,Graduate,Yes,2396,52800,276,0,Affordable,N
+Record410,Male,1,Not Graduate,No,2919,90400,156,0,Affordable,N
+Record413,Male,1,Graduate,No,14126,279200,336,1,Mid Range,N
+Record415,Male,1,Graduate,No,37231,208000,336,1,Mid Range,N
+Record419,Male,1,Graduate,No,3438,136000,336,1,Mid Range,N
+Record426,Female,1,Graduate,No,5196,64800,336,1,Mid Range,N
+Record427,Female,1,Not Graduate,Yes,4254,49600,336,1,Mid Range,N
+Record431,Female,1,Graduate,No,3830,124000,12,1,Mid Range,N
+Record443,Male,1,Graduate,No,3398,96800,336,0,Mid Range,N
+Record453,Male,1,Graduate,No,9130,121600,276,0,Mid Range,N
+Record456,Male,1,Graduate,No,20167,400000,336,1,Premium,N
+Record464,Female,1,Graduate,No,2860,128000,336,1,Premium,N
+Record467,Male,1,Graduate,No,2216,90400,336,1,Premium,N
+Record468,Male,1,Graduate,Yes,1100,88000,336,1,Premium,N
+Record478,Male,1,Graduate,No,4263,53600,336,1,Premium,N
+Record481,Male,1,Not Graduate,No,2761,112000,156,1,Premium,N
+Record485,Female,1,Graduate,Yes,12650,228800,336,0,Premium,N
+Record491,Male,1,Graduate,No,7040,144000,336,0,Premium,N
+Record492,Male,1,Not Graduate,Yes,4459,126400,336,0,Premium,N
+Record501,Male,1,Graduate,Yes,11565,128000,156,0,Premium,N
+Record503,Male,1,Graduate,No,3369,88800,156,0,Premium,N
+Record2,Male,2,Graduate,Yes,8743,384000,336,1,Affordable,Y
+Record3,Male,2,Graduate,Yes,19250,320000,336,1,Affordable,Y
+Record7,Male,2,Graduate,No,3861,194400,336,1,Affordable,Y
+Record17,Male,2,Graduate,Yes,2750,140800,336,1,Affordable,Y
+Record20,Male,2,Graduate,No,9167,132000,336,1,Affordable,Y
+Record21,Male,2,Graduate,No,6086,129600,336,1,Affordable,Y
+Record23,Male,2,Graduate,No,4584,126400,336,1,Affordable,Y
+Record24,Male,2,Not Graduate,No,4386,125600,336,1,Affordable,Y
+Record31,Male,2,Graduate,Yes,18178,120000,336,1,Affordable,Y
+Record40,Male,2,Graduate,No,4790,108800,336,1,Affordable,Y
+Record51,Male,2,Graduate,Not Answered,2842,100000,336,1,Affordable,Y
+Record56,Male,2,Graduate,No,6401,96000,336,1,Affordable,Y
+Record66,Male,2,Not Graduate,No,5118,88000,336,1,Affordable,Y
+Record68,Male,2,Graduate,Yes,6875,86400,336,1,Affordable,Y
+Record73,Male,2,Graduate,No,2250,80800,336,1,Affordable,Y
+Record84,Male,2,Graduate,Yes,10256,304000,276,1,Affordable,Y
+Record94,Female,2,Graduate,No,2235,90400,456,1,Mid Range,Y
+Record105,Male,2,Graduate,No,9167,196800,336,1,Mid Range,Y
+Record106,Male,2,Graduate,No,5500,188800,336,1,Mid Range,Y
+Record110,Male,2,Graduate,No,6875,168000,336,1,Mid Range,Y
+Record111,Male,2,Graduate,No,5352,166400,336,1,Mid Range,Y
+Record113,Male,2,Graduate,No,7194,164000,336,1,Mid Range,Y
+Record115,Male,2,Graduate,No,8800,160000,336,1,Mid Range,Y
+Record129,Male,2,Graduate,Yes,5042,128000,336,1,Mid Range,Y
+Record131,Male,2,Graduate,No,5704,124000,336,1,Mid Range,Y
+Record137,Male,2,Graduate,No,5179,120000,336,1,Mid Range,Y
+Record150,Male,2,Graduate,No,6529,106400,336,1,Mid Range,Y
+Record164,Male,2,Not Graduate,No,4309,99200,336,1,Mid Range,Y
+Record173,Male,2,Graduate,No,4089,96000,336,1,Mid Range,Y
+Record174,Female,2,Graduate,Not Answered,4125,96000,336,1,Mid Range,Y
+Record177,Male,2,Graduate,No,4410,92800,336,1,Mid Range,Y
+Record189,Male,2,Not Graduate,No,4043,86400,336,1,Mid Range,Y
+Record190,Male,2,Graduate,No,3979,85600,336,1,Mid Range,Y
+Record202,Female,2,Not Graduate,Not Answered,231,78400,336,1,Mid Range,Y
+Record203,Male,2,Not Graduate,Yes,2063,77600,336,1,Mid Range,Y
+Record204,Male,2,Graduate,No,2979,77600,336,1,Mid Range,Y
+Record208,Male,2,Graduate,No,4245,76800,336,1,Mid Range,Y
+Record213,Male,2,Graduate,No,4290,72000,336,1,Mid Range,Y
+Record217,Male,2,Graduate,No,3253,64800,336,1,Mid Range,Y
+Record228,Male,2,Not Graduate,No,2412,36000,336,1,Mid Range,Y
+Record232,Male,2,Graduate,No,7370,184000,276,1,Mid Range,Y
+Record236,Male,2,Graduate,No,6875,150400,156,1,Mid Range,Y
+Record240,Male,2,Not Graduate,No,2193,90400,156,1,Mid Range,Y
+Record246,Male,2,Graduate,No,5416,132800,336,0,Mid Range,Y
+Record253,Male,2,Graduate,No,18333,220000,336,1,Premium,Y
+Record254,Male,2,Graduate,Yes,5959,213600,336,1,Premium,Y
+Record259,Male,2,Graduate,No,12559,180000,336,1,Premium,Y
+Record261,Male,2,Graduate,No,3381,160000,336,1,Premium,Y
+Record262,Male,2,Graduate,No,6358,153600,336,1,Premium,Y
+Record265,Male,2,Graduate,No,8342,149600,336,1,Premium,Y
+Record271,Male,2,Graduate,No,4407,134400,336,1,Premium,Y
+Record276,Male,2,Graduate,No,3612,118400,336,1,Premium,Y
+Record278,Male,2,Not Graduate,No,3693,115200,336,1,Premium,Y
+Record286,Male,2,Graduate,No,3469,107200,336,1,Premium,Y
+Record288,Male,2,Graduate,No,5931,104000,336,1,Premium,Y
+Record292,Male,2,Not Graduate,No,3392,100800,336,1,Premium,Y
+Record300,Male,2,Graduate,No,3410,90400,336,1,Premium,Y
+Record301,Male,2,Graduate,No,10674,89600,336,1,Premium,Y
+Record303,Male,2,Not Graduate,No,4649,88000,336,1,Premium,Y
+Record306,Male,2,Graduate,Not Answered,2750,87200,336,1,Premium,Y
+Record318,Male,2,Graduate,Yes,3648,70400,336,1,Premium,Y
+Record319,Male,2,Not Graduate,No,3601,64800,336,1,Premium,Y
+Record324,Female,2,Graduate,No,16353,56000,336,1,Premium,Y
+Record325,Male,2,Graduate,No,3520,56000,336,1,Premium,Y
+Record339,Male,2,Graduate,No,12933,149600,156,1,Premium,N
+Record341,Male,2,Not Graduate,No,4717,106400,156,1,Premium,N
+Record346,Male,2,Graduate,No,2532,62400,156,1,Premium,N
+Record349,Male,2,Graduate,No,1429,13600,96,1,Premium,N
+Record350,Male,2,Graduate,No,3475,86400,60,1,Premium,N
+Record363,Male,2,Not Graduate,Yes,7022,149600,336,1,Affordable,N
+Record364,Male,2,Graduate,No,5547,148000,336,1,Affordable,N
+Record374,Male,2,Not Graduate,No,4620,103200,336,1,Affordable,N
+Record378,Male,2,Not Graduate,No,2510,90400,336,1,Affordable,N
+Record395,Male,2,Graduate,No,3674,120000,336,0,Affordable,N
+Record398,Male,2,Not Graduate,No,2540,100000,336,0,Affordable,N
+Record403,Male,2,Graduate,No,3947,88000,336,0,Affordable,N
+Record406,Male,2,Graduate,No,3902,64000,336,0,Affordable,N
+Record411,Male,2,Not Graduate,No,6738,149600,456,1,Mid Range,N
+Record429,Male,2,Graduate,Yes,6600,164000,216,1,Mid Range,N
+Record442,Male,2,Graduate,No,4840,101600,336,0,Mid Range,N
+Record446,Male,2,Graduate,Yes,2999,84800,336,0,Mid Range,N
+Record451,Male,2,Graduate,Not Answered,5500,57600,336,0,Mid Range,N
+Record459,Male,2,Graduate,Yes,1760,191200,336,1,Premium,N
+Record462,Female,2,Graduate,No,1516,133600,336,1,Premium,N
+Record465,Female,2,Graduate,No,3770,110400,336,1,Premium,N
+Record466,Male,2,Graduate,No,5078,107200,336,1,Premium,N
+Record471,Male,2,Graduate,No,5023,80000,336,1,Premium,N
+Record486,Male,2,Graduate,No,9679,206400,336,0,Premium,N
+Record487,Male,2,Graduate,No,4180,172800,336,0,Premium,N
+Record505,Male,2,Not Graduate,No,3178,36000,156,0,Premium,N
+Record4,Male,3,Graduate,No,16500,240000,336,1,Affordable,Y
+Record5,Male,3,Graduate,No,10455,220000,336,1,Affordable,Y
+Record6,Female,3,Graduate,No,3392,204000,336,1,Affordable,Y
+Record14,Male,3,Graduate,No,10084,148000,336,1,Affordable,Y
+Record32,Male,3,Graduate,No,3813,120000,336,1,Affordable,Y
+Record45,Male,3,Not Graduate,Yes,6274,104000,336,1,Affordable,Y
+Record46,Male,3,Graduate,No,9625,104000,336,1,Affordable,Y
+Record59,Male,3,Not Graduate,No,3405,90400,336,1,Affordable,Y
+Record74,Male,3,Graduate,Yes,6245,80000,336,1,Affordable,Y
+Record75,Male,3,Graduate,No,2933,76000,336,1,Affordable,Y
+Record87,Male,3,Graduate,No,7059,125600,156,1,Affordable,Y
+Record90,Male,3,Graduate,No,4517,32000,156,1,Affordable,Y
+Record95,Male,3,Not Graduate,No,2279,75200,456,1,Mid Range,Y
+Record102,Male,3,Graduate,Yes,11153,208000,336,1,Mid Range,Y
+Record116,Male,3,Graduate,No,5684,160000,336,1,Mid Range,Y
+Record118,Male,3,Graduate,Yes,5793,149600,336,1,Mid Range,Y
+Record138,Male,3,Not Graduate,No,5178,118400,336,1,Mid Range,Y
+Record165,Male,3,Graduate,No,4777,99200,336,1,Mid Range,Y
+Record198,Male,3,Not Graduate,No,4235,80000,336,1,Mid Range,Y
+Record199,Male,3,Graduate,No,5161,80000,336,1,Mid Range,Y
+Record219,Male,3,Not Graduate,No,3491,59200,336,1,Mid Range,Y
+Record249,Male,3,Graduate,No,43999,480000,156,0,Mid Range,Y
+Record291,Male,3,Graduate,No,6274,102400,336,1,Premium,Y
+Record305,Male,3,Graduate,Not Answered,4858,88000,336,1,Premium,Y
+Record311,Male,3,Graduate,No,4710,80000,336,1,Premium,Y
+Record312,Male,3,Graduate,No,3332,79200,336,1,Premium,Y
+Record342,Male,3,Graduate,No,8514,102400,156,1,Premium,N
+Record352,Male,3,Not Graduate,Yes,7810,100000,36,1,Premium,N
+Record353,Male,3,Graduate,No,4767,128000,336,0,Premium,N
+Record357,Male,3,Graduate,No,13750,256000,336,1,Affordable,N
+Record366,Male,3,Not Graduate,No,2912,138400,336,1,Affordable,N
+Record389,Male,3,Not Graduate,No,3875,64800,156,1,Affordable,N
+Record392,Male,3,Graduate,No,89100,288000,336,0,Affordable,N
+Record399,Male,3,Graduate,No,3740,98400,336,0,Affordable,N
+Record414,Male,3,Graduate,No,4400,232000,336,1,Mid Range,N
+Record422,Male,3,Graduate,No,7047,120000,336,1,Mid Range,N
+Record434,Male,3,Graduate,No,6068,396000,336,0,Mid Range,N
+Record438,Male,3,Graduate,No,3340,126400,336,0,Mid Range,N
+Record441,Male,3,Graduate,No,3773,102400,336,0,Mid Range,N
+Record452,Male,3,Graduate,No,3484,144000,276,0,Mid Range,N
+Record472,Male,3,Graduate,No,5775,75200,336,1,Premium,N
+Record504,Male,3,Not Graduate,No,3242,56000,156,0,Premium,N

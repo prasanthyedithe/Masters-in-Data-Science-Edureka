@@ -12,7 +12,7 @@
 1. Introductory Videos for PGP
 
 
-### 3. R Statistics for Data Science Course
+### 3. R Statistics for Data Science Course `Completed`
 1. Understanding the Data
 1. Probability and its Uses
 1. Statistical Inference

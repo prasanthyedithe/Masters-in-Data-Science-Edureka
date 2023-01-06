@@ -1,8 +1,8 @@
 # Masters in Data Science from Edureka
+ 
+### 1. Orientation Class `Completed`  
 
-### 1. Orientation Class
-
-### 2. Python Statistics for Data Science Course
+### 2. Python Statistics for Data Science Course `Completed` 
 1. Understanding the Data
 1. Probability and its Uses
 1. Statistical Inference
@@ -37,7 +37,7 @@
 1. Certification Project
 
 
-### 5. Data Science with Python Certification Course
+### 5. Data Science with Python Certification Course `In-Progress` 
 1. Introduction to Python
 1. Sequences and File Operations
 1. Deep Dive—Functions, OOPs, Modules, Errors, and Exceptions
@@ -119,7 +119,7 @@
 1. Certification Project - SQL Essentials
 
 
-### 11. R Programming Certification Training
+### 11. R Programming Certification Training `Completed` 
 1. Installation Guide - RStudio
 1. Introduction to R Programming
 1. Loops and Functions
@@ -131,7 +131,7 @@
 1. In-Class Project
 1. Certification Project - R Programming
 
-### 12. Python Programming Certification Training
+### 12. Python Programming Certification Training `Completed` 
 1. Introduction to Python
 1. Sequences and File Operations
 1. Deep Dive – Functions, OOPs, Modules, Errors and Exceptions
@@ -147,7 +147,7 @@
 1. Module 2 - OOPS and Functional Programming in Scala
 
 
-### 14. MongoDB® Training And Certification
+### 14. MongoDB® Training And Certification `In-Progress`
 1. Introduction to MongoDB - Architecture and Installation
 1. Schema Design and Data Modelling
 1. CRUD Operations

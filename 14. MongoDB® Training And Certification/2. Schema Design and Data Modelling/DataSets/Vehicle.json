@@ -1,0 +1,184 @@
+[
+  {
+    "className": "org.acme.vehicle.lifecycle.manufacturer.Order",
+    "orderId": "ORD107",
+    "orderStatus": "VIN_ASSIGNED",
+    "orderer": "Akshay",
+    "vehicleDetails": {
+      "id": null,
+      "className": "org.vda.VehicleDetails",
+      "colour": "red",
+      "modelType": "A6",
+      "make": "Audi",
+      "vin": "VINA6RED001",
+      "powerWeightRatio": null,
+      "numberOfStandingPlaces": null,
+      "exhaustEmissions": {
+        "id": null,
+        "className": "org.vda.ExhaustEmissions",
+        "hc_plus_nox": "0.8",
+        "particulates": "0.3",
+        "nox": "0.7",
+        "hc": "0.6",
+        "co": "0.4"
+      },
+      "trailerDetails": {
+        "id": null,
+        "className": "org.vda.TrailerDetails",
+        "maxPermissibleTowableMassUnbraked": "0",
+        "maxPermissibleTowableMassBraked": "0"
+      },
+      "cylinderCapacity": null,
+      "typeApprovalNumber": null,
+      "vehicleCategory": null,
+      "maxPermissibleMass": null,
+      "numberOfSeats": null,
+      "massInService": null,
+      "modelVersion": null,
+      "bodyType": null,
+      "v5c": null,
+      "typeOfFuel": null,
+      "co2": null,
+      "soundDetails": {
+        "id": null,
+        "className": "org.vda.SoundDetails",
+        "driveBy": "0",
+        "stationary": "10",
+        "engineSpeed": "20"
+      },
+      "modelVariant": null,
+      "numberPlate": null,
+      "taxationClass": null,
+      "revenueWeight": null,
+      "wheelPlan": null,
+      "maxNetPower": null,
+      "engineNumber": null
+    },
+    "statusUpdates": [
+      {
+        "className": "org.acme.vehicle.lifecycle.manufacturer.UpdateOrderStatus",
+        "timestamp": "2017-11-01T05:36:01.392Z",
+        "order": "resource:org.acme.vehicle.lifecycle.manufacturer.Order#ORD107",
+        "orderStatus": "SCHEDULED_FOR_MANUFACTURE",
+        "vin": null,
+        "v5c": null,
+        "numberPlate": null,
+        "transactionId": "613e87bb-5f5e-41dc-9c72-7a95b406ea63"
+      },
+      {
+        "className": "org.acme.vehicle.lifecycle.manufacturer.UpdateOrderStatus",
+        "timestamp": "2017-11-01T05:36:26.250Z",
+        "order": "resource:org.acme.vehicle.lifecycle.manufacturer.Order#ORD107",
+        "orderStatus": "VIN_ASSIGNED",
+        "vin": "VINA6RED001",
+        "v5c": null,
+        "numberPlate": null,
+        "transactionId": "4adbc81d-631c-4b68-9da4-16cbbfdbec0f"
+      }
+    ],
+    "vinNumber": null,
+    "manufacturer": "Volkswagen Group",
+    "transactionId": null
+  },
+  {
+    "className": "org.acme.vehicle.lifecycle.manufacturer.Order",
+    "orderId": "ORD6",
+    "orderStatus": "DELIVERED",
+    "orderer": "ganesh",
+    "vehicleDetails": {
+      "id": null,
+      "className": "org.vda.VehicleDetails",
+      "colour": "white",
+      "modelType": "A8",
+      "make": "Audi",
+      "vin": "VINA8WHITE001",
+      "powerWeightRatio": null,
+      "numberOfStandingPlaces": null,
+      "exhaustEmissions": {
+        "id": null,
+        "className": "org.vda.ExhaustEmissions",
+        "hc_plus_nox": "0.5",
+        "particulates": "0.3",
+        "nox": "0.2",
+        "hc": "0.4",
+        "co": "0.1"
+      },
+      "trailerDetails": {
+        "id": null,
+        "className": "org.vda.TrailerDetails",
+        "maxPermissibleTowableMassUnbraked": "0",
+        "maxPermissibleTowableMassBraked": "0"
+      },
+      "cylinderCapacity": null,
+      "typeApprovalNumber": null,
+      "vehicleCategory": null,
+      "maxPermissibleMass": null,
+      "numberOfSeats": null,
+      "massInService": null,
+      "modelVersion": null,
+      "bodyType": null,
+      "v5c": null,
+      "typeOfFuel": null,
+      "co2": null,
+      "soundDetails": {
+        "id": null,
+        "className": "org.vda.SoundDetails",
+        "driveBy": "0",
+        "stationary": "20",
+        "engineSpeed": "30"
+      },
+      "modelVariant": null,
+      "numberPlate": null,
+      "taxationClass": null,
+      "revenueWeight": null,
+      "wheelPlan": null,
+      "maxNetPower": null,
+      "engineNumber": null
+    },
+    "statusUpdates": [
+      {
+        "className": "org.acme.vehicle.lifecycle.manufacturer.UpdateOrderStatus",
+        "timestamp": "2017-11-01T06:52:24.999Z",
+        "order": "resource:org.acme.vehicle.lifecycle.manufacturer.Order#ORD6",
+        "orderStatus": "SCHEDULED_FOR_MANUFACTURE",
+        "vin": null,
+        "v5c": null,
+        "numberPlate": null,
+        "transactionId": "145d4621-e94c-4f22-8f71-742b47fe4a3f"
+      },
+      {
+        "className": "org.acme.vehicle.lifecycle.manufacturer.UpdateOrderStatus",
+        "timestamp": "2017-11-01T06:52:46.204Z",
+        "order": "resource:org.acme.vehicle.lifecycle.manufacturer.Order#ORD6",
+        "orderStatus": "VIN_ASSIGNED",
+        "vin": "VINA8WHITE001",
+        "v5c": null,
+        "numberPlate": null,
+        "transactionId": "dd16245b-92cf-44ab-8e94-7a098180c597"
+      },
+      {
+        "className": "org.acme.vehicle.lifecycle.manufacturer.UpdateOrderStatus",
+        "timestamp": "2017-11-01T06:53:05.632Z",
+        "order": "resource:org.acme.vehicle.lifecycle.manufacturer.Order#ORD6",
+        "orderStatus": "OWNER_ASSIGNED",
+        "vin": "VINA8WHITE001",
+        "v5c": null,
+        "numberPlate": null,
+        "transactionId": "aed838e3-4288-46e9-a6b0-cbe2edf262ab"
+      },
+      {
+        "className": "org.acme.vehicle.lifecycle.manufacturer.UpdateOrderStatus",
+        "timestamp": "2017-11-01T06:53:27.914Z",
+        "order": "resource:org.acme.vehicle.lifecycle.manufacturer.Order#ORD6",
+        "orderStatus": "DELIVERED",
+        "vin": "VINA8WHITE001",
+        "v5c": null,
+        "numberPlate": null,
+        "transactionId": "af5155e3-e49e-48db-a494-639f85f41992"
+      }
+    ],
+    "vinNumber": null,
+    "manufacturer": "Volkswagen Group",
+    "transactionId": null
+  }
+]

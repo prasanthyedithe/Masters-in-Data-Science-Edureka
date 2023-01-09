@@ -1,0 +1,182 @@
+[
+  {
+    "car_brand": "Audi",
+    "manufacturer": "Volkswagen Group",
+    "car_models": [
+      {
+        "model_name": "A4",
+        "co": 0.3,
+        "hc": 0.5,
+        "nox": 0.6,
+        "hc_plus_nox": 0.7,
+        "particulates": 0.2,
+        "stationary": 10,
+        "engineSpeed": 40,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "A6",
+        "co": 0.4,
+        "hc": 0.6,
+        "nox": 0.7,
+        "hc_plus_nox": 0.8,
+        "particulates": 0.3,
+        "stationary": 10,
+        "engineSpeed": 20,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "A8",
+        "co": 0.1,
+        "hc": 0.4,
+        "nox": 0.2,
+        "hc_plus_nox": 0.5,
+        "particulates": 0.3,
+        "stationary": 20,
+        "engineSpeed": 30,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      }
+    ]
+  },
+  {
+    "car_brand": "BMW",
+    "manufacturer": "Bavarian Motor Works",
+    "car_models": [
+      {
+        "model_name": "X1",
+        "co": 0.2,
+        "hc": 0.3,
+        "nox": 0.5,
+        "hc_plus_nox": 0.6,
+        "particulates": 0.4,
+        "stationary": 12,
+        "engineSpeed": 32,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "X3",
+        "co": 0.3,
+        "hc": 0.4,
+        "nox": 0.2,
+        "hc_plus_nox": 0.6,
+        "particulates": 0.4,
+        "stationary": 15,
+        "engineSpeed": 20,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "Z4_Roadster",
+        "co": 0.2,
+        "hc": 0.3,
+        "nox": 0.4,
+        "hc_plus_nox": 0.6,
+        "particulates": 0.4,
+        "stationary": 18,
+        "engineSpeed": 28,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      }
+    ]
+  },
+  {
+    "car_brand": "Jaguar",
+    "manufacturer": "Tata Motors",
+    "car_models": [
+      {
+        "model_name": "XE",
+        "co": 0.5,
+        "hc": 0.4,
+        "nox": 0.7,
+        "hc_plus_nox": 0.2,
+        "particulates": 0.5,
+        "stationary": 11,
+        "engineSpeed": 26,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "XF",
+        "co": 0.3,
+        "hc": 0.2,
+        "nox": 0.2,
+        "hc_plus_nox": 0.5,
+        "particulates": 0.2,
+        "stationary": 19,
+        "engineSpeed": 24,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "E-PACE",
+        "co": 0.2,
+        "hc": 0.1,
+        "nox": 0.6,
+        "hc_plus_nox": 0.4,
+        "particulates": 0.5,
+        "stationary": 17,
+        "engineSpeed": 24,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      }
+    ]
+  },
+  {
+    "car_brand": "Chevrolet",
+    "manufacturer": "General Motors Company",
+    "car_models": [
+      {
+        "model_name": "Impala",
+        "co": 0.3,
+        "hc": 0.2,
+        "nox": 0.5,
+        "hc_plus_nox": 0.3,
+        "particulates": 0.4,
+        "stationary": 14,
+        "engineSpeed": 23,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "Cruze",
+        "co": 0.4,
+        "hc": 0.2,
+        "nox": 0.3,
+        "hc_plus_nox": 0.5,
+        "particulates": 0.2,
+        "stationary": 21,
+        "engineSpeed": 26,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      },
+      {
+        "model_name": "Malibu",
+        "co": 0.2,
+        "hc": 0.3,
+        "nox": 0.6,
+        "hc_plus_nox": 0.6,
+        "particulates": 0.3,
+        "stationary": 18,
+        "engineSpeed": 23,
+        "driveBy": 0,
+        "maxPermissibleTowableMassBraked": 0,
+        "maxPermissibleTowableMassUnbraked": 0
+      }
+    ]
+  }
+]

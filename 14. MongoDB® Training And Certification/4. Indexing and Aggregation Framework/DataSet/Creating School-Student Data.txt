@@ -1,0 +1,23 @@
+db=db.getSiblingDB("school");
+
+db.students.drop();
+
+types=['exam','quiz','homework','classwork']
+
+//Creating 1 million students
+
+for(i=0;i<100000;i++){
+
+	for(class_counter = 0; class_counter < 10; class_counter ++){
+		scores=[]
+		//and each clasee has 4 grades
+		for(j=0;j<4;j++){
+			scores.push({'type':types[j],'score':Math.random()*100});
+		}		
+		//there are 500 different classes that they can take
+		class_id = Math.floor(Math.random()*501); //get a class id between 0 and 500
+	
+		record = {'student_id':i, 'scores':scores,'class_id':class_id};
+		db.students.insert(record);
+	}
+}

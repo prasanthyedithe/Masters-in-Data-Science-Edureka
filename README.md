@@ -75,7 +75,7 @@
 1. Edureka Blogs / YouTube Videos
 
 
-### 7. Deep Learning Course with TensorFlow Certification
+### 7. Deep Learning Course with TensorFlow Certification `In-Progress`
 1. Introduction to Deep Learning
 1. Getting Started with TensorFlow 2.0
 1. Convolution Neural Network

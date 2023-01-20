@@ -1,101 +1,122 @@
-[{
+db.Order.insertMany([
+	{
 		"ORDER_ID": "ORD_273",
 		"CUST_CODE": "CUST-22478",
-		"AMOUNT_SOLD": 1112
+		"AMOUNT_SOLD": 1112,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_534",
 		"CUST_CODE": "CUST-77188",
-		"AMOUNT_SOLD": 1231
+		"AMOUNT_SOLD": 1231,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_276",
 		"CUST_CODE": "CUST-2356",
-		"AMOUNT_SOLD": 3548
+		"AMOUNT_SOLD": 3548,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_324",
 		"CUST_CODE": "CUST-2622",
-		"AMOUNT_SOLD": 14335
+		"AMOUNT_SOLD": 14335,
+		"STATUS":"Not-Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_231",
 		"CUST_CODE": "CUST-22478",
-		"AMOUNT_SOLD": 76598
+		"AMOUNT_SOLD": 76598,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_298",
 		"CUST_CODE": "CUST-1463",
-		"AMOUNT_SOLD": 43356
+		"AMOUNT_SOLD": 43356,
+		"STATUS":"Not-Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_123",
 		"CUST_CODE": "CUST-22478",
-		"AMOUNT_SOLD": 34322
+		"AMOUNT_SOLD": 34322,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_342",
 		"CUST_CODE": "CUST-77188",
-		"AMOUNT_SOLD": 13333
+		"AMOUNT_SOLD": 13333,
+		"STATUS":"Not-Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_274",
 		"CUST_CODE": "CUST-2622",
-		"AMOUNT_SOLD": 24443
+		"AMOUNT_SOLD": 24443,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_265",
 		"CUST_CODE": "CUST-22478",
-		"AMOUNT_SOLD": 45384
+		"AMOUNT_SOLD": 45384,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_198",
 		"CUST_CODE": "CUST-77188",
-		"AMOUNT_SOLD": 30000
+		"AMOUNT_SOLD": 30000,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_200",
 		"CUST_CODE": "CUST-2356",
-		"AMOUNT_SOLD": 2098
+		"AMOUNT_SOLD": 2098,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_250",
 		"CUST_CODE": "CUST-1463",
-		"AMOUNT_SOLD": 42341
+		"AMOUNT_SOLD": 42341,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_300",
 		"CUST_CODE": "CUST-2622",
-		"AMOUNT_SOLD": 54352
+		"AMOUNT_SOLD": 54352,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_299",
 		"CUST_CODE": "CUST-2478",
-		"AMOUNT_SOLD": 24334
+		"AMOUNT_SOLD": 24334,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_235",
 		"CUST_CODE": "CUST-2356",
-		"AMOUNT_SOLD": 2346
+		"AMOUNT_SOLD": 2346,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_234",
 		"CUST_CODE": "CUST-22478",
-		"AMOUNT_SOLD": 12142
+		"AMOUNT_SOLD": 12142,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_254",
 		"CUST_CODE": "CUST-1463",
-		"AMOUNT_SOLD": 9000
+		"AMOUNT_SOLD": 9000,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_253",
 		"CUST_CODE": "CUST-2622",
-		"AMOUNT_SOLD": 2356
+		"AMOUNT_SOLD": 2356,
+		"STATUS":"Delivered"
 	},
 	{
 		"ORDER_ID": "ORD_270",
 		"CUST_CODE": "CUST-77188",
-		"AMOUNT_SOLD": 76234
+		"AMOUNT_SOLD": 76234,
+		"STATUS":"Delivered"
 	}
-]
+])

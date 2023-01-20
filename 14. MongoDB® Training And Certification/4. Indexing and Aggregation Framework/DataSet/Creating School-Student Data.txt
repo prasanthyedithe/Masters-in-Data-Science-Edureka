@@ -21,3 +21,87 @@ for(i=0;i<100000;i++){
 		db.students.insert(record);
 	}
 }
+------------------------------------------------------------------------------------
+Default Index
+school> db.students.getIndexes()
+[ { v: 2, key: { _id: 1 }, name: '_id_' } ]
+
+------------------------------------------------------------------------------------
+Simple Index
+
+school> db.students.createIndex({"student_id":1})
+student_id_1
+
+school> db.students.getIndexes()
+[
+  { v: 2, key: { _id: 1 }, name: '_id_' },
+  { v: 2, key: { student_id: 1 }, name: 'student_id_1' }
+]
+
+school> db.students.explain().find({"student_id":11})
+school> db.students.explain(true).find({"student_id":11})
+{
+  explainVersion: '1',
+  queryPlanner: {
+    namespace: 'school.students',
+    indexFilterSet: false,
+    parsedQuery: { student_id: { '$eq': 11 } },
+    queryHash: '2B2A4A1C',
+    planCacheKey: '2B2A4A1C',
+    maxIndexedOrSolutionsReached: false,
+    maxIndexedAndSolutionsReached: false,
+    maxScansToExplodeReached: false,
+    winningPlan: {
+      stage: 'COLLSCAN',
+      filter: { student_id: { '$eq': 11 } },
+      direction: 'forward'
+    },
+    rejectedPlans: []
+  },
+  executionStats: {
+    executionSuccess: true,
+    nReturned: 10,
+    executionTimeMillis: 223,
+    totalKeysExamined: 0,
+    totalDocsExamined: 199577,
+    executionStages: {
+      stage: 'COLLSCAN',
+      filter: { student_id: { '$eq': 11 } },
+      nReturned: 10,
+      executionTimeMillisEstimate: 19,
+      works: 199579,
+      advanced: 10,
+      needTime: 199568,
+      needYield: 0,
+      saveState: 199,
+      restoreState: 199,
+      isEOF: 1,
+      direction: 'forward',
+      docsExamined: 199577
+    },
+    allPlansExecution: []
+  },
+  command: { find: 'students', filter: { student_id: 11 }, '$db': 'school' },
+  serverInfo: {
+    host: 'EPINHYDW0A84',
+    port: 27017,
+    version: '6.0.3',
+    gitVersion: 'f803681c3ae19817d31958965850193de067c516'
+  },
+  serverParameters: {
+    internalQueryFacetBufferSizeBytes: 104857600,
+    internalQueryFacetMaxOutputDocSizeBytes: 104857600,
+    internalLookupStageIntermediateDocumentMaxSizeBytes: 104857600,
+    internalDocumentSourceGroupMaxMemoryBytes: 104857600,
+    internalQueryMaxBlockingSortMemoryUsageBytes: 104857600,
+    internalQueryProhibitBlockingMergeOnMongoS: 0,
+    internalQueryMaxAddToSetBytes: 104857600,
+    internalDocumentSourceSetWindowFieldsMaxMemoryBytes: 104857600
+  },
+  ok: 1
+}
+------------------------------------------------------------------------------------------
+Compound Index
+We will drop all Indexes first 
+db.students.dropIndexes()
+db.students.createIndex({"student_id":1,"class_id":1})

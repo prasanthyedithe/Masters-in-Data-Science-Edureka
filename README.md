@@ -37,7 +37,7 @@
 1. Certification Project
 
 
-### 5. Data Science with Python Certification Course `In-Progress` 
+### 5. Data Science with Python Certification Course `Completed` 
 1. Introduction to Python
 1. Sequences and File Operations
 1. Deep Dive—Functions, OOPs, Modules, Errors, and Exceptions

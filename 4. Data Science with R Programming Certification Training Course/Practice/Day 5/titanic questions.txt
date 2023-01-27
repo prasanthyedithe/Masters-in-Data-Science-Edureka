@@ -1,0 +1,38 @@
+
+Part 1 - reading and analysing data
+# Load data
+# str of data frame 
+# print first 5 rows of data frame
+# find count of missing values in every column
+# how many female and how many males were travelling
+#R Code to find the percentage of passengers who survived
+#R Code to find the percentage of first class passenger who survive
+# R Code to find the number of female/male all class passengers who survived
+#R Code to find the percentage of female survivors from all classes
+
+#Transform passenger names from factor variables to character variables
+# Transform survived and passenger class from integers to factor variables:
+
+
+#R Code to count the number of first-class passengers who survived the sinking of the Titanic.
+#Create a 3-way table for the variables `survived` (passengers' survival; 0=No, 1=Yes), `pclass` (passenger class; 1=Upper class, 2=Middle class, 3=Lower class) and `sex` (male and female).
+#Display the five-number summaries  
+# make a histogram plots for `age` (passengers' age) and `fare` (passengers' fare in pounds):
+#Display the frequency tables for `sibsp` (number of siblings or spouses aboard Titanic) 
+and `embarked` (port of embarkation; C=Cherbourg, Q=Queenstown, S=Southampton).
+#Inspect the data for unusual patterns like find passengers travelled on zero fare.
+#find name of passengers who paid the most expensive fare ans should be 512.33 pounds.
+# number of passengers that paid max fare and print names of the 4 passengers
+#print passengers who had at least 6 family members on board, with their names.
+# print number of unique tickets
+# number of tickets (bottom row) shared by number of passengers (top row)
+# print names of tickets that had at least 6 passengers sharing it
+# print names of the 86 passengers who shared the tickets: 
+# identify the passengers whose age were NA/ missing
+# find count of male passengers in the lower class
+# calculate the median age for all male passengers in the lower class
+# assign any 2 male passengers to be 24 years old 
+# identify the passengers whose fare was NA
+# how many passengers in the lower class i.e pclass 3
+# find the median fare of the lower class tickets
+# assign the median fare to the NA fare value

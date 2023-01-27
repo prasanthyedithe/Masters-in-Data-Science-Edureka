@@ -1,0 +1,12 @@
+convert all ones in any case to 1 and twos in any case to 2
+I want the percentages of all the students in a separate column called percentage	
+I want to filter class 1 and class 2 students separately and store in two different data frames df1 and df2		
+I want topper of class 1 in maths				
+I want topper of class 2 in English				
+I want overall topper in class 1				
+I want overall topper in class 2				
+I want names of the students which starts with A along with their classes 		
+I want names of the students which ends with n along with their classes			
+I want names of all the students who failed in class 1 in any of the subjects (fail means less than 40% marks in a subject)				
+I want names of the students in class 1 who failed in all the subjects			
+I want name and class of students who failed in maths but passed in English and Science				

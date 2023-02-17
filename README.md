@@ -21,7 +21,7 @@
 1. Regression Modelling
 
 
-### 4. Data Science with R Programming Certification Training Course `In-Progress`
+### 4. Data Science with R Programming Certification Training Course  `Completed` 
 1. R Essentials for Data Science
 1. Installation Guide
 1. Introduction to Data Science
@@ -57,7 +57,7 @@
 1. Advanced Visualizations (Self-Paced)
 1. Final
 
-### 6. Apache Spark and Scala Certification Training Course
+### 6. Apache Spark and Scala Certification Training Course `In-Progress`
 1. Module 1 - Introduction to Big Data Hadoop and Spark
 1. Module 2 - Introduction to Scala for Apache Spark
 1. Module 3 - Functional Programming & OOPS Concepts in Scala
@@ -88,7 +88,7 @@
 1. Certification Project - Deep Learning
 
 
-### 8. Tableau Certification Training Course
+### 8. Tableau Certification Training Course `Completed` 
 1. Installation Guide
 1. Data Preparation using Tableau Prep
 1. Data Connection with Tableau Desktop

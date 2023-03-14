@@ -1,0 +1,10 @@
+https://www.edureka.co/blog/what-is-hadoop/?utm_source=lms&utm_medium=spark&utm_campaign=what-is-hadoop-261218
+https://www.edureka.co/blog/hadoop-tutorial/?utm_source=lms&utm_medium=spark&utm_campaign=hadoop-tutorial-261218
+https://www.edureka.co/blog/big-data-tutorial?utm_source=lms&utm_medium=spark&utm_campaign=big-data-tutorial-261218
+https://www.edureka.co/blog/hdfs-commands-hadoop-shell-command?utm_source=lms&utm_medium=spark&utm_campaign=hadoop-commands-261218
+https://www.edureka.co/blog/hdfs-tutorial?utm_source=lms&utm_medium=spark&utm_campaign=hdfs-tutorial-261218
+
+https://www.youtube.com/watch?v=zeDUx_Jf154
+https://www.youtube.com/watch?v=zez2Tv-bcXY
+https://www.youtube.com/watch?v=mafw2-CVYnA
+https://www.youtube.com/watch?v=ivgQtdB-BS4&feature=youtu.be

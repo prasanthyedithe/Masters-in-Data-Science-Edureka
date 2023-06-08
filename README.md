@@ -1,8 +1,8 @@
 # Masters in Data Science from Edureka
  
-### 1. Orientation Class `Completed`  
+### 1. Orientation Class   
 
-### 2. Python Statistics for Data Science Course `Completed` 
+### 2. Python Statistics for Data Science Course  
 1. Understanding the Data
 1. Probability and its Uses
 1. Statistical Inference
@@ -12,7 +12,7 @@
 1. Introductory Videos for PGP
 
 
-### 3. R Statistics for Data Science Course `Completed`
+### 3. R Statistics for Data Science Course 
 1. Understanding the Data
 1. Probability and its Uses
 1. Statistical Inference
@@ -21,7 +21,7 @@
 1. Regression Modelling
 
 
-### 4. Data Science with R Programming Certification Training Course  `Completed` 
+### 4. Data Science with R Programming Certification Training Course   
 1. R Essentials for Data Science
 1. Installation Guide
 1. Introduction to Data Science
@@ -37,7 +37,7 @@
 1. Certification Project
 
 
-### 5. Data Science with Python Certification Course `Completed` 
+### 5. Data Science with Python Certification Course  
 1. Introduction to Python
 1. Sequences and File Operations
 1. Deep Dive—Functions, OOPs, Modules, Errors, and Exceptions
@@ -57,7 +57,7 @@
 1. Advanced Visualizations (Self-Paced)
 1. Final
 
-### 6. Apache Spark and Scala Certification Training Course `In-Progress`
+### 6. Apache Spark and Scala Certification Training Course 
 1. Module 1 - Introduction to Big Data Hadoop and Spark
 1. Module 2 - Introduction to Scala for Apache Spark
 1. Module 3 - Functional Programming & OOPS Concepts in Scala
@@ -75,7 +75,7 @@
 1. Edureka Blogs / YouTube Videos
 
 
-### 7. Deep Learning Course with TensorFlow Certification `In-Progress`
+### 7. Deep Learning Course with TensorFlow Certification 
 1. Introduction to Deep Learning
 1. Getting Started with TensorFlow 2.0
 1. Convolution Neural Network
@@ -88,7 +88,7 @@
 1. Certification Project - Deep Learning
 
 
-### 8. Tableau Certification Training Course `Completed` 
+### 8. Tableau Certification Training Course  
 1. Installation Guide
 1. Data Preparation using Tableau Prep
 1. Data Connection with Tableau Desktop
@@ -119,7 +119,7 @@
 1. Certification Project - SQL Essentials
 
 
-### 11. R Programming Certification Training `Completed` 
+### 11. R Programming Certification Training  
 1. Installation Guide - RStudio
 1. Introduction to R Programming
 1. Loops and Functions
@@ -131,7 +131,7 @@
 1. In-Class Project
 1. Certification Project - R Programming
 
-### 12. Python Programming Certification Training `Completed` 
+### 12. Python Programming Certification Training  
 1. Introduction to Python
 1. Sequences and File Operations
 1. Deep Dive – Functions, OOPs, Modules, Errors and Exceptions
@@ -147,7 +147,7 @@
 1. Module 2 - OOPS and Functional Programming in Scala
 
 
-### 14. MongoDB® Training And Certification `In-Progress`
+### 14. MongoDB® Training And Certification 
 1. Introduction to MongoDB - Architecture and Installation
 1. Schema Design and Data Modelling
 1. CRUD Operations
